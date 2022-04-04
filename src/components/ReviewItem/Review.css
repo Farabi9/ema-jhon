@@ -12,6 +12,7 @@
 }
 .review-items-details p{
     margin: 0;
+    margin-left: 20px;
 }
 .review-items .delete-container{
     display: flex;
@@ -36,4 +37,5 @@
     height: 55px;
     width: 55px;
     border-radius: 50%;
+    cursor: pointer;
 }
